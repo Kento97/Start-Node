@@ -1,32 +1,16 @@
 {
-  "name": "learn-nodejs",
+  "name": "start-node",
   "version": "1.0.0",
-  "description": "none",
-  "main": "main.js",
-  "type": "module",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon main.js"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kento97/Start-Node.git"
+    "url": "https://github.91chi.fun/https://github.com/Kento97/Start-Node.git"
   },
-  "author": "Kento",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Kento97/Start-Node/issues"
-  },
-  "homepage": "https://github.com/Kento97/Start-Node#readme",
-  "devDependencies": {
-    "@types/node": "^17.0.42"
-  },
-  "dependencies": {
-    "body-parser": "^1.20.0",
-    "cors": "^2.8.5",
-    "express": "^4.17.1",
-    "express-session": "^1.17.3",
-    "moment": "^2.29.3",
-    "sqlite3": "^5.0.8"
-  }
+  "author": "",
+  "license": "ISC"
 }
